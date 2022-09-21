@@ -542,7 +542,7 @@ ol.type li a:hover {
 /* Contact Section */
 #contact {
 	padding:60px 0px 60px 0px;
-	background: url(../img/careers-bg.jpg) no-repeat top center fixed;
+	background: url(../img/careers_bg.jpg) no-repeat top center fixed;
 	background-size: cover;
 	color:#fff;
 }
